@@ -1,0 +1,1 @@
+{"tfidf": {"avg_precision_5": 0.13256821964390483, "avg_recall_5": 0.40653945846217737, "patients_excluded_from_recall": 62570}, "bm25": {"avg_precision_5": 0.12087239723649076, "avg_recall_5": 0.37689971759082985, "patients_excluded_from_recall": 62570}, "avg_overlap_tfidf_bm25": 2.534478010464935, "n_patients": 167034}
